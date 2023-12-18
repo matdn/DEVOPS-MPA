@@ -1,0 +1,20 @@
+{
+  "devmatis": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-devopsmpa-devmatis-115850-authRole",
+      "UnauthRoleArn": "arn:aws:iam::194672992331:role/amplify-devopsmpa-devmatis-115850-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::194672992331:role/amplify-devopsmpa-devmatis-115850-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-devopsmpa-devmatis-115850-deployment",
+      "UnauthRoleName": "amplify-devopsmpa-devmatis-115850-unauthRole",
+      "StackName": "amplify-devopsmpa-devmatis-115850",
+      "StackId": "arn:aws:cloudformation:eu-west-1:194672992331:stack/amplify-devopsmpa-devmatis-115850/6de1f6b0-9d94-11ee-811c-0a51c5df7f29",
+      "AmplifyAppId": "d2qz099ao0t1yy"
+    },
+    "categories": {
+      "auth": {
+        "devopsmpa28e0d59f": {}
+      }
+    }
+  }
+}
