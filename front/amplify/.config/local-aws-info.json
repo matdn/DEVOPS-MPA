@@ -1,0 +1,7 @@
+{
+  "devmatis": {
+    "configLevel": "project",
+    "useProfile": true,
+    "profileName": "Matis"
+  }
+}
