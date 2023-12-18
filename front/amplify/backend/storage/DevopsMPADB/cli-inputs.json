@@ -1,0 +1,14 @@
+{
+  "resourceName": "DevopsMPADB",
+  "tableName": "User",
+  "partitionKey": {
+    "fieldName": "userid",
+    "fieldType": "number"
+  },
+  "sortKey": {
+    "fieldName": "firstname",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
