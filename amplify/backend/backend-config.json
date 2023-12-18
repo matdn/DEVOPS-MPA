@@ -1,8 +1,0 @@
-{
-  "storage": {
-    "DevopsMPADB": {
-      "providerPlugin": "awscloudformation",
-      "service": "DynamoDB"
-    }
-  }
-}
